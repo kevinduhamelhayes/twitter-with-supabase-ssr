@@ -8,7 +8,7 @@ export default function NavBar({ session }: { session: Session | null }) {
     <nav className="border-b border-gray-200 py-4 mb-8">
       <div className="max-w-2xl mx-auto px-4 flex justify-between items-center">
         <Link href="/" className="text-2xl font-bold text-blue-500 hover:text-blue-600">
-          MiduTwitter
+          KevinTwitter
         </Link>
 
         <div className="flex items-center gap-4">
